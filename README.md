@@ -1,7 +1,15 @@
+## BME680 Sensor Package for micro:bit
 
-> Visit the original repository: [https://github.com/dwass/apple](https://github.com/dwass/apple)
+> Visit the Original Repository: [https://github.com/dwass/apple](https://github.com/dwass/apple)
 
-## Use as Extension
+Author: dwass
+Date: Oct 2020
+
+Modified: naotannn
+Date: Nov 2021
+
+
+## Import Extension
 
 This repository can be added as an **extension** in MakeCode.
 
@@ -10,15 +18,8 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/naotannn/bme680-makecode** and import
 
-## Edit this project
 
-To edit this repository in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/naotannn/bme680-makecode** and click import
-
-## Blocks preview
+## Blocks Preview
 
 ![Demo](https://github.com/naotannn/bme680-makecode/blob/main/demo.png)
 

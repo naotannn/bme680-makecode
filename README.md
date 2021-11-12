@@ -10,7 +10,7 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **##** and import
 
-## Edit this project !
+## Edit this project
 
 To edit this repository in MakeCode.
 

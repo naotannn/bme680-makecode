@@ -20,5 +20,5 @@ To edit this repository in MakeCode.
 
 ## Blocks preview
 
-![To be updated](https://makecode.microbit.org/)
+![Demo](https://github.com/naotannn/bme680-makecode/blob/main/demo.png)
 

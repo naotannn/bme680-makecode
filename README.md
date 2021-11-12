@@ -2,9 +2,11 @@
 
 > Visit the Original Repository: [https://github.com/dwass/apple](https://github.com/dwass/apple)
 
-Author: dwass (Date: Oct 2020)
-Modified: naotannn (Date: Nov 2021)
+Original Author: dwass  
+Date:   Oct 2020    
 
+Modified: naotannn  
+Date:   Nov 2021    
 
 ## Import Extension
 

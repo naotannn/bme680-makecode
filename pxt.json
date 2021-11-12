@@ -1,0 +1,17 @@
+{
+    "name": "BME680-nao",
+    "description": "MakeCode BME680 Sensor Package for micro:bit (Under Development)",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ]
+}

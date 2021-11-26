@@ -1,6 +1,6 @@
 {
     "name": "EdUHK - BME680",
-    "description": "MakeCode BME680 Sensor Package for micro:bit (Under Development)",
+    "description": "MakeCode BME680 Sensor Package for micro:bit",
     "dependencies": {
         "core": "*"
     },

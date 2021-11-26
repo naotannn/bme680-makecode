@@ -21,7 +21,7 @@ enum BME680_P {
  * BME680 block
  */
 //% weight=100 color=#a1709b icon="\uf042" block="BME680"
-namespace BME680 {
+namespace EdUHK_BME680 {
     let BME680_I2C_ADDR = 0x77
 
     function setreg(reg: number, dat: number): void {

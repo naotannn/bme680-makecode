@@ -240,7 +240,7 @@ namespace EdUHK_BME680 {
         G = gas_res
         //serial.writeLine("Gas: " + gas_res) 
         //+ "/var1: " + fvar1 + "/var2: " + fvar2)
-        serial.writeLine("===== PROCESSED DATA =====") 
+        //serial.writeLine("===== PROCESSED DATA =====") 
 
         let GInt = Math.idiv(G, 1000)
         let GRemainder = G % 100
